@@ -1,1 +1,1 @@
-# React--Typescript2
+# React-Typescript2
