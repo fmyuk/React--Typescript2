@@ -1,5 +1,11 @@
 # React-Typescript2
 
+## Creact-React-App(typescript)
+
+```
+npx create-react-app {プロジェクト名} --typescript
+```
+
 ## ESLint
 
 - バージョン確認
