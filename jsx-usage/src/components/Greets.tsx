@@ -7,8 +7,8 @@ const Greets: React.FunctionComponent<Props> = (props) => {
 
   return (
     <>
-      {[...Array(times)].map((_) => (
-        <p>
+      {[...Array(times)].map((_, i) => (
+        <p key={i}>
           Hello, {name}! {children}
         </p>
       ))}

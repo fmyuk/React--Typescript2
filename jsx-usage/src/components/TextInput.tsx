@@ -4,8 +4,8 @@ const TextInput: React.FunctionComponent = () => {
   const inputRef = React.useRef<HTMLInputElement>(null);
 
   const handleClick = (): void => {
-    console.log(inputRef.currenct);
-    if (inputRef.currenct) inputRef.current.focus();
+    console.log(inputRef.current);
+    if (inputRef.current) inputRef.current.focus();
   };
 
   return (
