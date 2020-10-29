@@ -39,3 +39,9 @@ eslint@^5.16.0 || ^6.8.0 || ^7.2.0 \ eslint-plugin-import@^2.21.2 eslint-plugin-
 ? Would you like to install them now with npm?
 ❯No
 ```
+
+- semantic-ui-react
+
+```
+yarn add semantic-ui-css
+```
